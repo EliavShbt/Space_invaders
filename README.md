@@ -16,4 +16,4 @@ To run this project simply run the 'main.py' file.
 3. Main player has health bar and when the bar is turnning all red you lose and the game is over.
 4. The health bar is being reset every phase/level.
 ```
-## Good Luck !
+### Good Luck !
