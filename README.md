@@ -8,7 +8,7 @@
 'Python' language project, it uses 'pygame' library and object oriented programming principles.
 The game is remake of the nostalgic space invaders.
 ## Setup
-To run this project simply run the 'main.py' file.  
+To run this project simply run the 'main.py' file.   
 The 'assests' file is where the images for the game is being stored
 ## Some Rules
 ```
