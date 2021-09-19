@@ -5,7 +5,7 @@
 * [Some Rules](#some-rules)
 
 ## General info
-'Python' language project, it uses 'pygame' library and object oriented programming principles.
+'Python' language project, it uses 'pygame' library and object oriented programming principles.   
 The game is remake of the nostalgic space invaders.
 ## Setup
 To run this project simply run the 'main.py' file.   
